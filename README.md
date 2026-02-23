@@ -11,11 +11,17 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 1.Load and Preprocess Data
+
 2.Get the shape of the first image in the training dataset
+
 3.Get the shape of the first image in the test dataset
+
 4.Train the Model
+
 5.Test the Model
+
 6.Predict on a Single Image
+
 7.Display the image 
 
 
